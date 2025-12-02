@@ -99,5 +99,3 @@ app.reset()
 ## 📝 License
 
 Dự án này được tạo ra cho mục đích học tập. 
-
-© Copyright by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman). Sử dụng cho học tập hoặc portfolio cá nhân.
