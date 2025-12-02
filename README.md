@@ -13,7 +13,9 @@
 - 💾 **Lưu trữ cục bộ**: Tự động lưu dữ liệu vào Local Storage
 - 🎯 **Điều hướng nhanh**: Click vào workout để di chuyển đến vị trí trên bản đồ
 
-## 🚀 Demo
+## 🚀 Live Demo
+
+👉 **[Xem Demo Trực Tiếp](https://sai-ctruong.github.io/Mapty/)**
 
 Nhấp vào bất kỳ vị trí nào trên bản đồ để thêm workout mới!
 
