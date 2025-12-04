@@ -95,6 +95,11 @@ Tất cả workout được tự động lưu vào Local Storage, dữ liệu s�
 ```javascript
 app.reset()
 ```
+## 🧑‍💻 Tác giả
+
+* **Phạm Công Trường** - [sai-ctruong](https://github.com/sai-ctruong)
+
+---
 
 ## 📝 License
 
